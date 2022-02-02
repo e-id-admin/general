@@ -1,3 +1,5 @@
+[Deutsche Version](README.md) - [Versione italiana](README-IT.md)
+
 # Bienvenue. Votre participation est souhaitée!
 À l'automne 2021, la conseillère fédérale Karin Keller-Sutter a ouvert le débat public sur la future solution d'e-ID suisse au moyen du document de travail concernant le projet d'identité électronique (e-ID). Grâce à la décision de principe prise par le Conseil fédéral le 17 décembre 2021 (cf. [communiqué de presse](https://www.bj.admin.ch/bj/fr/home/aktuell/mm.msg-id-86465.html)), la discussion relative à un écosystème e-ID peut se poursuivre.
 
