@@ -1,3 +1,5 @@
+[Deutsche Version](README.md) - [Version française](README-FR.md)
+
 # Benvenuti. La vostra collaborazione è preziosa!
 Nell'autunno del 2021 la consigliera federale Karin Keller-Sutter ha lanciato il dibattito pubblico sulla futura soluzione per l'identità elettronica svizzera, presentando il «documento di discussione degli obiettivi dell’Ie». Grazie alla decisione di principio adottata dal Consiglio federale il 17 dicembre 2021 (cfr. [comunicato stampa](https://www.bj.admin.ch/bj/it/home/aktuell/mm.msg-id-86465.html)), è possibile portare avanti la discussione sull'ecosistema Ie. 
 
