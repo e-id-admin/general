@@ -1,3 +1,5 @@
+[Version française](README-FR.md) - [Versione italiana](README-IT.md)
+
 # Willkommen. Mitwirkung erwünscht!
 Im Herbst 2021 hat Bundesrätin Karin Keller-Sutter den öffentlichen Dialog zur künftigen Schweizer E-ID-Lösung mit dem Diskussionspapier zum «Zielbild E-ID» eröffnet. Dank dem Richtungsentscheid des Bundesrates vom 17. Dezember 2021 (vgl. [Medienmitteilung](https://www.bj.admin.ch/bj/de/home/aktuell/mm.msg-id-86465.html)) kann die Diskussion rund um ein E-ID-Ökosystem weitergeführt werden.
 
