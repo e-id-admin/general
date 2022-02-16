@@ -29,6 +29,9 @@ https://findy.fi/en/
 Hyperledger Aries view on ToIP-Stack  
 https://github.com/hyperledger/aries-rfcs/blob/main/concepts/0289-toip-stack/README.md
 
+OAuth Security Workshop - Risk Mitigation for Cross Device Flows  
+https://www.youtube.com/watch?v=6tpmyLf88pU&t=1496s
+
 Trust over IP Infographic Model  
 https://www.trustoverip.org/wp-content/toip-model/
 
