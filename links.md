@@ -12,9 +12,25 @@ Si prega di inviare link aggiuntivi come richiesta di pull. Il contenuto del lin
 
 ----
 
+DIDAS Blog - E-ID based on SSI – Needs for regulatory support  
+https://www.didas.swiss/2021/12/21/e-id-based-on-ssi-needs-for-regulatory-support/
+
+Eckpunktepapier für Self-sovereign Identities (SSI) des Bundesamt für Sicherheit in der Informationstechnik (Deutschland)  
 https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Krypto/Eckpunkte_SSI_DLT.html  
 https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Krypto/Eckpunkte_SSI_DLT.pdf?__blob=publicationFile&v=2  
-Eckpunktepapier für Self-sovereign Identities (SSI) des Bundesamt für Sicherheit in der Informationstechnik (Deutschland)
 
-https://findy.fi/en/  
-Findy Cooperative - A Finnish network of verifiable data
+Evernym Webinar Decentralized Identity & Government  
+https://www.evernym.com/government-webinar/  
+https://de.slideshare.net/Evernym/the-shift-from-federated-to-decentralized-identity
+
+Findy Cooperative - A Finnish network of verifiable data  
+https://findy.fi/en/
+
+Hyperledger Aries view on ToIP-Stack  
+https://github.com/hyperledger/aries-rfcs/blob/main/concepts/0289-toip-stack/README.md
+
+Trust over IP Infographic Model  
+https://www.trustoverip.org/wp-content/toip-model/
+
+W3C DID Specification Registries - The interoperability registry for Decentralized Identifiers  
+https://www.w3.org/TR/did-spec-registries/#did-methods
