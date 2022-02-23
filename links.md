@@ -32,6 +32,9 @@ https://github.com/hyperledger/aries-rfcs/blob/main/concepts/0289-toip-stack/REA
 OAuth Security Workshop - Risk Mitigation for Cross Device Flows  
 https://www.youtube.com/watch?v=6tpmyLf88pU&t=1496s
 
+Sovereignty, privacy, and ethics in blockchain-based identity management systems - Springer Link
+https://link.springer.com/article/10.1007/s10676-020-09563-x
+
 Trust over IP Infographic Model  
 https://www.trustoverip.org/wp-content/toip-model/
 
