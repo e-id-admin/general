@@ -1,3 +1,4 @@
 # Glossar
 
 In Entstehung...
+Gemeinsam.
