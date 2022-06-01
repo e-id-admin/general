@@ -15,6 +15,9 @@ Si prega di inviare link aggiuntivi come richiesta di pull. Il contenuto del lin
 DIDAS Blog - E-ID based on SSI – Needs for regulatory support  
 https://www.didas.swiss/2021/12/21/e-id-based-on-ssi-needs-for-regulatory-support/
 
+digitalswitzerland – Whitepaper Building a Swiss Digital Trust Ecosystem  
+https://digitalswitzerland.com/building-a-swiss-digital-trust-ecosystem/
+
 Eckpunktepapier für Self-sovereign Identities (SSI) des Bundesamt für Sicherheit in der Informationstechnik (Deutschland)  
 https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Krypto/Eckpunkte_SSI_DLT.html  
 https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Krypto/Eckpunkte_SSI_DLT.pdf?__blob=publicationFile&v=2  
