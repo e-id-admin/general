@@ -26,6 +26,10 @@ https://de.slideshare.net/Evernym/the-shift-from-federated-to-decentralized-iden
 Findy Cooperative - A Finnish network of verifiable data  
 https://findy.fi/en/
 
+Fraunhofer-Institut für Angewandte Informationstechnik  
+https://www.fit.fraunhofer.de/content/dam/fit/de/documents/Whitepaper_Mythbusting_Self-Sovereign_Identity.pdf
+https://www.fit.fraunhofer.de/content/dam/fit/de/documents/Fraunhofer%20FIT_SSI_Whitepaper.pdf
+
 Hyperledger Aries view on ToIP-Stack  
 https://github.com/hyperledger/aries-rfcs/blob/main/concepts/0289-toip-stack/README.md
 
