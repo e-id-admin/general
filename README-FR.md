@@ -8,7 +8,7 @@ Si la plate-forme GitHub semble au premier abord destinée plutôt aux férus de
 
 La présente plate-forme est appelée à se développer. Pour l'instant, il n'est pas possible de prévoir l'ampleur de la participation – pas plus que les besoins des participants, ni les principaux thèmes qui surgiront. Les participants peuvent à tout moment soumettre des propositions d'amélioration quant à la forme et à la structure – directement en tant qu'issue (avec l'étiquette *enhancement*).
 
-Outre les discussions ayant lieu sur la plate-forme, des rencontres en ligne sont prévues à intervalles réguliers qui se veulent informatives, constructives, prospectives et stimulantes. Le lien d'invitation sera envoyé via la liste de diffusion E-ID@bj.admin.ch.
+Outre les discussions ayant lieu sur la plate-forme, des rencontres en ligne sont prévues à intervalles réguliers qui se veulent informatives, constructives, prospectives et stimulantes. Les liens d'invitation sont envoyés via la newsletter de l'E-ID. Vous pouvez vous abonner ici à la newsletter de l'E-ID : https://www.eid.admin.ch/eid/fr/home/e-id-gesetz/partizipation.html
 
 Ce que vous ne trouverez pas dans le *repository*, c'est la communication officielle de la Confédération relative à l'e-ID étatique, y compris les étapes, les données de référence et les communiqués de presse. Ces informations figurent à l'adresse suivante:  
 www.bj.admin.ch/bj/fr/home/staat/gesetzgebung/staatliche-e-id.html.
