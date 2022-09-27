@@ -7,7 +7,7 @@ Die Erwartungen an eine fortlaufende, öffentliche Partizipation haben das Proje
 
 Die hier vorliegende Plattform wird sich entwickeln. Die Teilnahme-Intensität ist zum Start nicht absehbar – ebenso wenig wie die Bedürfnisse der Diskutierenden sowie die Schwerpunkte, welche sich ergeben werden. Verbesserungsvorschläge zu Form und Struktur können jederzeit angebracht werden – direkt als sogenanntes «Issue» (mit dem Label: Enhancement).
 
-Nebst der Diskussionsplattform sind in regelmässigen Abständen Online-Treffen geplant. Diese sollen informativ, konstruktiv, ausblickend und anregend wirken. Die Einladungslinks dazu werden jeweils via Mailingliste E-ID@bj.admin.ch versendet. 
+Nebst der Diskussionsplattform finden in regelmässigen Abständen Online-Treffen statt. Diese sollen informativ, konstruktiv, ausblickend und anregend wirken. Die Einladungslinks dazu werden jeweils via E-ID-Newsletter verschickt. Der E-ID-Newsletter kann hier aboniert werden: https://www.eid.admin.ch/eid/de/home/e-id-gesetz/partizipation.html
 
 Was Sie im gesamten Repository nicht finden werden, ist die offizielle Kommunikation des Bundes zum Thema «staatliche E-ID», mit Etappen, Eckdaten und Medienmitteilungen. Diese Informationen finden Sie unter:  
 https://www.bj.admin.ch/bj/de/home/staat/gesetzgebung/staatliche-e-id.html
