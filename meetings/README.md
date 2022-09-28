@@ -26,4 +26,6 @@ Genf, 29. September 2022: (link to be provided)
 
 Lugando, 5. Oktober 2022: https://digitaltage.swiss/programm/die-elektronische-identitat-des-bundes-wie-gefallt-ihnen-der-erste-entwurf-2/
 
+St. Gallen, 12. Oktober 2022: https://digitaltage.swiss/programm/die_staatliche_elektronische_identitat-wie_gefallt_ihnen_der_erste_entwurf/
+
 Luzern, 20. Oktober 2022: https://digitaltage.swiss/programm/die-staatliche-elektronische-identitat-wie-gefallt-ihnen-der-erste-entwurf/
