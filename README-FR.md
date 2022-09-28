@@ -52,4 +52,4 @@ www.bj.admin.ch/bj/fr/home/staat/gesetzgebung/staatliche-e-id.html.
 Les médias adresseront leurs demandes à:
 media@bj.admin.ch
 
-ous pouvez vous abonner ici à la newsletter de l'E-ID : https://www.eid.admin.ch/eid/fr/home/e-id-gesetz/partizipation.html
+Vous pouvez vous abonner ici à la newsletter de l'E-ID : https://www.eid.admin.ch/eid/fr/home/e-id-gesetz/partizipation.html
