@@ -50,7 +50,7 @@ Die in den Diskussionen aufgeführten Beiträge von Projektbeteiligten widerspie
 Die offizielle Webseite zum Gesetzgebungsprojekt der staatlichen E-ID finden Sie unter:  
 https://www.bj.admin.ch/bj/de/home/staat/gesetzgebung/staatliche-e-id.html
 
-Die offizielle Webseite zur staatlichen E-ID allgemeini finden Sie unter:
+Die offizielle Webseite zur staatlichen E-ID allgemein finden Sie unter:
 https://www.eid.admin.ch/eid/de/home.html
 
 Medien-Anfragen sind zu richten an:
