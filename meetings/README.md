@@ -5,6 +5,9 @@ Les présentations, les informations et le contenu des réunions peuvent être p
 
 Presentazioni, informazioni e contenuti delle riunioni possono essere memorizzati o trovati in questa cartella.
 
+
+
+
 Das E-ID-Projektteam ist im Rahmen der Schweizer Digitaltage 2022 an verschiedenen Orten präsent:
 
 L'équipe du projet E-ID est présente à différents endroits dans le cadre des journées suisses du digital 2022 :
