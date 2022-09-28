@@ -8,11 +8,15 @@ Presentazioni, informazioni e contenuti delle riunioni possono essere memorizzat
 
 
 
+
 Das E-ID-Projektteam ist im Rahmen der Schweizer Digitaltage 2022 an verschiedenen Orten präsent:
 
 L'équipe du projet E-ID est présente à différents endroits dans le cadre des journées suisses du digital 2022 :
 
 Il team del progetto E-ID sarà presente in varie località durante il Giornate digitale svizzere 2022:
+
+
+
 
 Basel, 15. September 2022: https://digitaltage.swiss/programm/elektronische-identitat-auf-tour-de-suisse/
 
