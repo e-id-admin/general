@@ -46,8 +46,11 @@ L'équipe de projet e-ID de l'Office fédéral de la justice (OFJ) est responsab
 
 Les contributions de participants au projet publiées dans les discussions ne reflètent pas nécessairement la position officielle de l'équipe de projet ou de l'administration fédérale.
 
-Le site Internet officiel du projet d'e-ID étatique est le suivant:  
+Le site Internet officiel du projet législatif d'e-ID étatique est le suivant:  
 www.bj.admin.ch/bj/fr/home/staat/gesetzgebung/staatliche-e-id.html.
+
+Le site Internet officiel du projet d'e-ID étatique en général est le suivant:
+https://www.eid.admin.ch/eid/fr/home.html
 
 Les médias adresseront leurs demandes à:
 media@bj.admin.ch
