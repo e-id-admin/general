@@ -47,8 +47,11 @@ Verantwortlich für die GitHub-Organisation «e-id-admin» ist das Projektteam E
 
 Die in den Diskussionen aufgeführten Beiträge von Projektbeteiligten widerspiegeln nicht zwingend die offizielle Meinung des Projektteams oder der Bundesverwaltung. Für Links auf Webseiten sowie deren Inhalte ausserhalb dieser GitHub-Organisation wird keine Haftung übernommen.
 
-Die offizielle Webseite zum Projekt der staatlichen E-ID finden Sie unter:  
+Die offizielle Webseite zum Gesetzgebungsprojekt der staatlichen E-ID finden Sie unter:  
 https://www.bj.admin.ch/bj/de/home/staat/gesetzgebung/staatliche-e-id.html
+
+Die offizielle Webseite zur staatlichen E-ID allgemeini finden Sie unter:
+https://www.eid.admin.ch/eid/de/home.html
 
 Medien-Anfragen sind zu richten an:
 media@bj.admin.ch
