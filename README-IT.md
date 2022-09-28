@@ -46,8 +46,11 @@ Il gruppo di progetto Ie dell'Ufficio federale di giustizia è responsabile dell
 
 Gli interventi dei singoli partecipanti nelle discussioni non rispecchiano per forza la posizione ufficiale del gruppo di progetto o dell'Amministrazione federale.
 
-Il sito ufficiale del progetto per l'identità elettronica statale si trova all'indirizzo  
+Il sito ufficiale del progetto legislativo per l'identità elettronica statale si trova all'indirizzo  
 https://www.bj.admin.ch/bj/it/home/staat/gesetzgebung/staatliche-e-id.html
+
+Il sito web ufficiale dell'identità elettronica dello Stato in generale è disponibile all'indirizzo  
+https://www.eid.admin.ch/eid/it/home.html
 
 I media sono pregati di rivolgersi all'indirizzo media@bj.admin.ch
 
