@@ -8,7 +8,7 @@ La scelta della piattaforma può, a prima vista, apparire da tecnoentusiasti, ma
 
 La piattaforma continuerà a evolvere: non è possibile anticipare la frequenza e la qualità degli interventi, né le esigenze dei partecipanti o le priorità che emergeranno dalle discussioni. Chiunque può, in ogni momento, proporre migliorie formali o strutturali – creando direttamente una cosiddetta «issue» (da contrassegnare come «enhancement»).
 
-La piattaforma di discussione è arricchita da incontri virtuali, in programma a intervalli regolari: vogliamo che siano informativi, costruttivi, prospettivi e stimolanti. I link di invito saranno inviati tramite la newsletter elettronica dell'identità. Potete iscrivervi alla newsletter qui: https://www.eid.admin.ch/eid/it/home/e-id-gesetz/partizipation.html 
+La piattaforma di discussione è arricchita da incontri virtuali, in programma a intervalli regolari: vogliamo che siano informativi, costruttivi, prospettivi e stimolanti. I link di invito saranno inviati tramite la newsletter elettronica dell'identità. Potete iscrivervi alla newsletter qui: https://www.eid.admin.ch/it/perche-partecipazione
 
 La comunicazione ufficiale della Confederazione in materia di «Ie statale», completa di tappe, punti cruciali e comunicati stampa, non è salvata nel repository, ma è reperibile all'indirizzo:  
 https://www.bj.admin.ch/bj/it/home/staat/gesetzgebung/staatliche-e-id.html
@@ -50,8 +50,8 @@ Il sito ufficiale del progetto legislativo per l'identità elettronica statale s
 https://www.bj.admin.ch/bj/it/home/staat/gesetzgebung/staatliche-e-id.html
 
 Il sito web ufficiale dell'identità elettronica dello Stato in generale è disponibile all'indirizzo  
-https://www.eid.admin.ch/eid/it/home.html
+https://www.eid.admin.ch
 
 I media sono pregati di rivolgersi all'indirizzo media@bj.admin.ch
 
-Potete iscrivervi alla newsletter qui: https://www.eid.admin.ch/eid/it/home/e-id-gesetz/partizipation.html 
+Potete iscrivervi alla newsletter qui: https://www.eid.admin.ch/it/perche-partecipazione 
